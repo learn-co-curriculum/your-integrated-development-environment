@@ -1,10 +1,8 @@
-## Objectives
+# Using the Integrated Development Environment
 
-1. Objective 1
-2. Objective 2
+# Opening Your IDE
 
-## Instructions
-
+When you signed up for Learn, we set you up with an Integrated Development (IDE) that follows the 
 Make the tests pass.
 
 ### Part 1: Do Some Stuff
