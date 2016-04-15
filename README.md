@@ -35,7 +35,13 @@ We'll soon cover how to enter commands into the console that will allow you open
 
 You can use the IDE to open, test, save, and submit code only when you have an internet connection. You can edit code in your text editor when you're offline, but you will only be able to save it when you're connected back to the internet. 
 
-At the bottom of the IDE application, you'll see the word "Learn" in green letters. That means you're all set. If, however, you see Learn[DISCONNECTED], that means (pretty obviously) that you do not have an internet connection. So, make sure you're connected when you're ready to submit labs. 
+At the bottom of the IDE application, you'll see the word "Learn" in green letters. That means you're all set. 
+
+![https://s3.amazonaws.com/learn-verified/IDEConnected.png]
+
+If, however, you see Learn[DISCONNECTED], that means (pretty obviously) that you do not have an internet connection. So, make sure you're connected when you're ready to submit labs. 
+
+![https://s3.amazonaws.com/learn-verified/IDEDisconnected.png]
 
 On that note, you can't open Readmes on the IDE but only labs where you will need to write and submit code. 
 
