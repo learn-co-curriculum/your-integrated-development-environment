@@ -41,6 +41,8 @@ If, however, you see Learn[DISCONNECTED], that means (pretty obviously) that you
 
 ![IDE Disconnected](https://s3.amazonaws.com/learn-verified/IDEDisconnected.png)
 
+When you are back on an internet connection and you still see the Learn[DISCONNECTED] icon, then in the IDE toolbar menu, go to Packages and within that menu, select Learn.co, and click "Reconnect."
+
 On that note, you can't open Readmes on the IDE but only labs where you will need to write and submit code. 
 
 Use the IDE on one machine. For now, we're not supporting syncing across various machines. What that means is that if you downloaded a lesson from Learn on your computer, you won't see that lesson on another computer where you also might have this IDE installed. 
