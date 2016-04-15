@@ -9,7 +9,9 @@ In previous lessons, we discussed the shell and how you can easily access and ed
 
 ## What are the Components of the IDE? 
 
-Let's spend a minute studying the IDE user interface. You'll notice that it's composed of three sections: (1) a file browser (2) a text editor and (3) the console. 
+Let's spend a minute studying the IDE user interface. You'll notice that it's composed of three sections: (1) a file browser (2) a text editor and (3) the console which you'll see in the image below. 
+
+![https://s3.amazonaws.com/learn-verified/Screen+Shot+2016-04-15+at+3.48.17+PM.png]
 
 ### IDE File Browser
 
@@ -19,13 +21,11 @@ The left side of your IDE application houses a simple file browser. It works jus
 
 ### IDE Text Editoor 
 
-Can ADDDDDDD picture
-
 The text editor is the heart of the IDE. It's where you'll write code, and where you'll be spending most of your time. We built the IDE over Atom, a free open-source text editor. One of the nifty things about text editors that have been optimized for programming is that your code will highlight as you type in ways that make it easier to discern the structure of your program. You'll notice this when you start writing your own code.  
 
-### IDE Terminal
+When you click on a file in your file browser, it will open up in the text editor portion of the IDE and you can go ahead and edit right there. 
 
-Can ADDDDDDD picture
+### IDE Terminal
 
 While the upper part of the screen is where you write code, the lower part of the screen is the terminal where you'll be typing in commands to navigate files and folders. Remember that this terminal won't give you access to the files and folders in your computer, but instead only to those that exist in the IDE (look at your file browser to see what's there). 
 
