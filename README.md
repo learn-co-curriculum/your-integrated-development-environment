@@ -11,7 +11,7 @@ In previous lessons, we discussed the shell and how you can easily access and ed
 
 Let's spend a minute studying the IDE user interface. You'll notice that it's composed of three sections: (1) a file browser (2) a text editor and (3) the console which you'll see in the image below. 
 
-!(https://s3.amazonaws.com/learn-verified/Screen+Shot+2016-04-15+at+3.48.17+PM.png)
+![IDE](https://s3.amazonaws.com/learn-verified/Screen+Shot+2016-04-15+at+3.48.17+PM.png)
 
 ### IDE File Browser
 
@@ -37,11 +37,11 @@ You can use the IDE to open, test, save, and submit code only when you have an i
 
 At the bottom of the IDE application, you'll see the word "Learn" in green letters. That means you're all set. 
 
-!(https://s3.amazonaws.com/learn-verified/IDEConnected.png)
+![IDE Connected](https://s3.amazonaws.com/learn-verified/IDEConnected.png)
 
 If, however, you see Learn[DISCONNECTED], that means (pretty obviously) that you do not have an internet connection. So, make sure you're connected when you're ready to submit labs. 
 
-!(https://s3.amazonaws.com/learn-verified/IDEDisconnected.png)
+![IDE Disconnected](https://s3.amazonaws.com/learn-verified/IDEDisconnected.png)
 
 On that note, you can't open Readmes on the IDE but only labs where you will need to write and submit code. 
 
