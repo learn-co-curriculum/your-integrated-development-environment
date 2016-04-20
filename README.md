@@ -16,9 +16,9 @@ Let's spend a minute studying the Learn IDE user interface. You'll notice that i
 
 ![IDEFileBrowser](https://s3.amazonaws.com/learn-verified/ILE-BrowserFile.png)
 
-The left side of your IDE application houses a simple file browser. It works just like a file browser on any computer: you can navigate a tree of folders and files to find the file you're looking for. Opening a file will open its contents in the text editor on the right. This is often the most convenient to see the structure of a file tree and find a file quickly.
+The left side of your IDE application houses a simple file browser. It works just like a file browser on any computer: you can navigate a tree of folders and files to find the file you're looking for. Opening a file will open its contents in the text editor on the right. This is often the most convenient way to see the structure of a file tree and find a file quickly.
 
-Reminder: the files you can see and access here are those that exist on the server you're connected to with the Learn IDE, not those on your local computer. 
+Reminder: the files you can see and access here are those that exist on the server you're connected to via the Learn IDE, not those on your local computer. 
 
 ### IDE Text Editor 
 
