@@ -24,7 +24,7 @@ Reminder: the files you can see and access here are those that exist on the serv
 
 ![IDETextEditor](https://s3.amazonaws.com/learn-verified/ILE-TextEditor.png)
 
-The text editor is the heart of the IDE. It's where you'll write code, and where you'll be spending most of your time. Again, we built the IDE on top of Atom, a free open-source text editor by GitHub. One of the nifty things about text editors that have been optimized for programming is that your code will highlight as you type in ways that make it easier to discern the structure of your program. You'll notice this when you start writing your own code.  
+The text editor is the heart of the IDE. It's where you'll write code, and where you'll be spending most of your time. Again, we built the IDE on top of Atom, a free open-source text editor by GitHub. One of the nifty things about text editors that have been optimized for programming is that as you type, your code will highlight in ways that make it easier to discern the structure of your program. You'll notice this when you start writing your own code.  
 
 When you click on a file in your file browser, it will open up in the text editor portion of the IDE and you can go ahead and edit right there. 
 
