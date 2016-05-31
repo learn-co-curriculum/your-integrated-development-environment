@@ -36,7 +36,6 @@ While the upper part of the screen is where you write code, the lower part of th
 
 Reminder: again, just like the file tree on the left, this terminal gives you access to the files and folders on our server, and not the files and folders on your local computer. 
 
-We'll soon cover how to enter commands into the console that will allow you open, test and submit code with Learn.
 
 ## Important note about connectivity
 
@@ -47,3 +46,5 @@ Hint: If you see the word "Learn" in green letters below your Terminal, you're c
 ![IDE Connected](https://s3.amazonaws.com/learn-verified/IDEConnected.png)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/your-integrated-development-environment'>Your Integrated Development Environment</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/your-integrated-development-environment'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
