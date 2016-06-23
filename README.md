@@ -2,7 +2,7 @@
 
 The Learn Integrated Development Environment (IDE) is what you'll be using to write code and submit your labs on Learn. Let's take a closer look at what it is and how it works. 
 
-We created the Learn IDE based off of Github's very popular text editor, Atom. We've taken advantage of its highly configurable design by optimizing it to solve labs on Learn in two key ways. (1) We've configured a server in the cloud with all the tools and packages you need to build software, as well as the files you'll work on while solving Learn Labs. (2) We've given you access to that server via a Terminal window within the app.
+We created the Learn IDE based off of GitHub's very popular text editor, Atom. We've taken advantage of its highly configurable design by optimizing it to solve labs on Learn in two key ways. (1) We've configured a server in the cloud with all the tools and packages you need to build software, as well as the files you'll work on while solving Learn Labs. (2) We've given you access to that server via a Terminal window within the app.
 
 So you can think of the Learn IDE as a powerful text editor that gives you handy access to a fully-equipped development environment in the cloud. And since you're connected to that server in the cloud, the files and folders you're able to see in the Learn IDE are those that exist on that server, rather than the files on your computer. That may sound confusing, but you'll see that in practice, you'll have access to all of the files you need for Learn and it will feel very natural.
 
