@@ -18,6 +18,8 @@ Let's spend a minute studying the Learn IDE user interface. You'll notice that i
 
 The left side of your IDE application houses a simple file browser. It works just like a file browser on any computer: you can navigate a tree of folders and files to find the file you're looking for. Opening a file will open its contents in the text editor on the right. This is often the most convenient way to see the structure of a file tree and find a file quickly.
 
+Important note: If you need to add any files into the Learn IDE (pictures, or other files that did not come with the lab), you can add them by right click (or option + click on a Mac) on the folder you would like to add them to and selecting Import File from the menu. 
+
 Reminder: the files you can see and access here on your local computer and are in synced to the server you're connected to via the Learn IDE. The files you see when you type `ls` are on the server (and assuming you're only using one computer, these should be the same lists of files).
 
 ### IDE Text Editor
@@ -34,7 +36,7 @@ When you click on a file in your file browser, it will open up in the text edito
 
 While the upper part of the screen is where you write code, the lower part of the screen is the terminal where you'll be typing in commands to navigate files and folders.
 
-Reminder: Whenever you save your files, they are synced to the server. Once they're on the server, we can run through the terminal here. 
+Reminder: Whenever you save your files, they are synced to the server. Once they're on the server, we can run through the terminal here.
 
 ## Important note about connectivity
 
