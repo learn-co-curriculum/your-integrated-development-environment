@@ -56,6 +56,5 @@ Hint: If you see the word "Learn" in green letters below your Terminal, you're c
 - Terminal
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/your-integrated-development-environment'>Your Integrated Development Environment</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/your-integrated-development-environment'>The Learn IDE</a> on Learn.co and start learning to code for free.</p>
