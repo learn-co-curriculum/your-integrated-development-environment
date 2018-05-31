@@ -4,13 +4,11 @@ You are probably familiar with using an application like Microsoft Office, Open 
 
 There are many different applications that allow you to both see and edit code. These are called text editors. One advantage of some text editors is they allow you to customize them in a highly personalized manner. There are different plug-ins that you can download to allow you to do everything from simply changing text style and color to auto-formatting and auto-complete. Some text editors you might have heard of include Vi, Atom, Sublime, Notepad, and Visual Studio Code.
 
-The Learn Integrated Development Environment (IDE) is what you'll be using to write code and submit your labs on Learn. We created the Learn IDE based off of GitHub's very popular text editor, Atom. We've taken advantage of its highly configurable design by optimizing it to solve labs on Learn in two key ways. (1) We've configured a server in the cloud with all the tools and packages you need to build software, as well as the files you'll work on while solving Learn Labs. (2) We've given you access to that server via a Terminal window within the app.
-
-So you can think of the Learn IDE as a powerful text editor that gives you handy access to a fully-equipped development environment in the cloud. And since you're connected to that server in the cloud, the files and folders you're able to see in the Learn IDE are those that exist on that server, rather than the files on your computer. That may sound confusing, but you'll see that in practice, you'll have access to all of the files you need for Learn and it will feel very natural.
+The Learn Integrated Development Environment (IDE) is a web-based version of GitHub's text editor, Atom, plus a (terminal / shell / command prompt) — all in one. When you launch Learn Learn IDE you'll see a "file tree" and a text editing space. Those are provided by Atom. The terminal at the bottom is something we've added to help you test and interact with your code. You can think of the Learn IDE as a powerful text editor that gives you handy access to a fully-equipped development environment in the cloud. And since you're connected to that server in the cloud, the files and folders you're able to see in the Learn IDE are those that exist on that server, rather than the files on your computer. That may sound confusing, but you'll see that in practice, you'll have access to all of the files you need for Learn and it will feel very natural.
 
 ## What are the Components of the IDE?
 
-Let's spend a minute studying the Learn IDE user interface. You'll notice that it's composed of three sections: (1) a file browser (2) a text editor and (3) the console which you'll see in the image below.
+Let's spend a minute studying the Learn IDE user interface. You'll notice that it's composed of three sections: (1) a file browser (2) a text editor and (3) the terminal which you'll see in the image below.
 
 ![IDE](https://s3.amazonaws.com/learn-verified/Screen+Shot+2016-04-15+at+3.48.17+PM.png)
 
@@ -30,9 +28,9 @@ The text editor is the heart of the IDE. It's where you'll write code, and where
 
 When you click on a file in your file browser, it will open up in the text editor portion of the IDE and you can go ahead and edit right there.
 
-Hint: Don't forget to save your work often so you don't lose it! A good rule of thumb is to save and commit your code every 3-5 lines. You will learn more about committing your code to Github in a few lessons, but for now just save your work by going to File -> Save, command-s (Mac), or control-s (Windows).
+Hint: Don't forget to save your work often so you don't lose it! A good rule of thumb is to save and commit your code every 3-5 lines. You will learn more about committing your code to Github in a few lessons, but for now just save your work by going to File -> Save, command-s (Mac), or control-s (Windows). If your tests are failing on a lab, and you're not sure why, make sure you've saved your code _before_ running your tests!
 
-### IDE Terminal
+### IDE terminal
 
 ![IDETerminal](https://s3.amazonaws.com/learn-verified/ILE-Console.png)
 
@@ -40,7 +38,7 @@ While the upper part of the screen is where you write code, the lower part of th
 
 Reminder: again, just like the file tree on the left, this terminal gives you access to the files and folders on our server, and not the files and folders on your local computer.
 
-Hint: Try using `pwd` to see your working directory, and using `cd` and `cd ..` to navigate between folders. You can also use `ls` here to see your files and folders in your working directory.
+Hint: Try using `pwd` to see your working directory, and using `cd` and `cd ..` to navigate between folders. You can also use `ls` here to see your files and folders in your working directory. Practicing your new commands is a great way to ensure you remember them.
 
 
 ## Important note about connectivity
