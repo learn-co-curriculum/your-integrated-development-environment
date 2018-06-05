@@ -28,7 +28,7 @@ The text editor is the heart of the IDE. It's where you'll write code, and where
 
 When you click on a file in your file browser, it will open up in the text editor portion of the IDE and you can go ahead and edit right there.
 
-Hint: Don't forget to save your work often so you don't lose it! A good rule of thumb is to save and commit your code every 3-5 lines. You will learn more about committing your code to Github in a few lessons, but for now just save your work by going to File -> Save, command-s (Mac), or control-s (Windows). If your tests are failing on a lab, and you're not sure why, make sure you've saved your code _before_ running your tests!
+Hint: Don't forget to save your work often so you don't lose it! A good rule of thumb is to save and commit your code every 3-5 lines. You will learn more about committing your code to GitHub in a few lessons, but for now just save your work by going to File -> Save, command-s (Mac), or control-s (Windows). If your tests are failing on a lab, and you're not sure why, make sure you've saved your code _before_ running your tests!
 
 ### IDE terminal
 
