@@ -4,6 +4,8 @@ You are probably familiar with using an application like Microsoft Office, Open 
 
 There are many different applications that allow you to both see and edit code. These are called text editors. One advantage of some text editors is they allow you to customize them in a highly personalized manner. There are different plug-ins that you can download to allow you to do everything from simply changing text style and color to auto-formatting and auto-complete. Some text editors you might have heard of include Vi, Atom, Sublime, Notepad, and Visual Studio Code.
 
+An Integrated Development Environment (IDE) is a single piece of software that gives you all of the tools required to work with your code. Typically it will include a file browser for finding and creating files, a text editor for editing the files, and a terminal window for running commands. 
+
 The Learn Integrated Development Environment (IDE) is a web-based version of GitHub's text editor, Atom, plus a (terminal / shell / command prompt) — all in one. When you launch Learn Learn IDE you'll see a "file tree" and a text editing space. Those are provided by Atom. The terminal at the bottom is something we've added to help you test and interact with your code. You can think of the Learn IDE as a powerful text editor that gives you handy access to a fully-equipped development environment in the cloud. And since you're connected to that server in the cloud, the files and folders you're able to see in the Learn IDE are those that exist on that server, rather than the files on your computer. That may sound confusing, but you'll see that in practice, you'll have access to all of the files you need for Learn and it will feel very natural.
 
 ## What are the Components of the IDE?
