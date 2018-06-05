@@ -45,7 +45,7 @@ Hint: Try using `pwd` to see your working directory, and using `cd` and `cd ..` 
 
 You need an Internet connection in order to use the Learn IDE. You can edit code in your text editor when you're offline, but you will only be able to save it when you re-establish a connection.
 
-Hint: If you see the word "Learn" in green letters below your Terminal, you're connected.  
+Hint: If you see a green box below your Terminal, you're connected.  
 
 ![IDE Connected](https://s3.amazonaws.com/learn-verified/IDEConnected.png)
 
